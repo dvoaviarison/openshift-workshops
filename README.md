@@ -5,4 +5,6 @@ Don't just read about what OpenShift can do - try it for yourself with [these ha
 
 [1]: http://redhatgov.io/workshops/openshift_101_dcmetromap/
 
+This update should have triggered a deployment in openshift
+
 
